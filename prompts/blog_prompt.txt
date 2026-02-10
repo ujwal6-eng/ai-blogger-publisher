@@ -1,1 +1,13 @@
+Write a detailed SEO optimized blog post for Indian audience.
 
+Rules:
+- Language: English
+- Tone: simple, human, informative
+- Length: 1000–1200 words
+- Use HTML formatting (<h2>, <h3>, <p>, <ul>)
+- No emojis
+- Add a short conclusion
+- Add 4–5 FAQs at the end
+
+Topic:
+{{TOPIC}}
